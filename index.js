@@ -18,6 +18,10 @@ $(document).ready(function(){
     }
 });
 
+setTimeout(function(){
+  $(".title-container1").css("opacity", 1);
+}, 1000 * 5);
+
 
 
 
